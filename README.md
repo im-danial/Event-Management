@@ -33,7 +33,7 @@ This is my first practice project for figma and Tailwind CSS
 
 ## Author
 
-- github - [@mrdwnial](https://github.com/mrdwnial)
+- github - [@im-danial](https://github.com/im-danial)
 - telegram - [@Danial_fnb](https://t.me/Danial_fnb)
 - whatsapp - [09115790575]
 - Instagram - [@danial_fnb.js](https://www.instagram.com/danial_fnb.js)
