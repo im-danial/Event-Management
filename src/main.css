@@ -33,8 +33,7 @@
 
 @layer components {
   .blur-image {
-    background: linear-gradient(90deg, rgba(3, 21, 43, 0.6) 0%, rgba(0, 0, 0, 0) 105.07%);
-    backdrop-filter: blur(5px);
+    /* backdrop-filter: blur(5px); */
   }
   .gradient_btn_bg {
     background: linear-gradient(90deg, #00fce3 0.23%, #00d6fa 99.74%);
@@ -46,7 +45,7 @@
     -webkit-text-fill-color: transparent;
   }
   .gradient__shadow {
-    box-shadow: 0 0 10px color-mix(in srgb, #00fce3 0%, #00d6fa);
+    box-shadow: inset 0 0 10px color-mix(in srgb, #00fce3 0%, #00d6fa);
   }
   .active__navbar__tag {
     color: #fff;
