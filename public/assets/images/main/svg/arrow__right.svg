@@ -1,0 +1,15 @@
+<svg width="70" height="71" viewBox="0 0 70 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 38">
+<circle id="Ellipse 27" cx="35" cy="35.5" r="35" fill="url(#paint0_linear_125_665)"/>
+<g id="Group 15">
+<path id="Vector" d="M40.1416 29.6426L46.3127 35.8137L40.1416 41.9848" stroke="#111617" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M23.6863 35.8137H46.3137" stroke="#111617" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_125_665" x1="-2.10877e-08" y1="39.9545" x2="70.0216" y2="39.585" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FCE3"/>
+<stop offset="1" stop-color="#00D6FA"/>
+</linearGradient>
+</defs>
+</svg>
